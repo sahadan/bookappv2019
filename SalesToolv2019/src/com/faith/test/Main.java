@@ -14,6 +14,7 @@ public class Main {
 	private static void displayGreeting() {
 		
 		System.out.println("Hi guys! Sales report shows the latest info");
+		System.out.println("Test1");
 		
 	}
 
