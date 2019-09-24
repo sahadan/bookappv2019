@@ -15,6 +15,7 @@ public class Main {
 		
 		System.out.println("Hi guys! Sales report shows the latest info");
 		System.out.println("Test1");
+		System.out.println("Test2");
 		
 	}
 
